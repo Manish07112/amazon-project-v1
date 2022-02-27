@@ -57,12 +57,13 @@ function Home() {
             price={10199}
             image="https://m.media-amazon.com/images/I/61W4meSdVQL._SL1000_.jpg"
          />
+         
         
 
          </div>
          <div className="home--row">
          <Product 
-            id="05"
+            id="09"
             title="Redmi 108 cm (43 inches) Full HD Smart LED TV"
             price={23999}
             image="https://m.media-amazon.com/images/I/71F0j4xzGiL._SL1500_.jpg"
