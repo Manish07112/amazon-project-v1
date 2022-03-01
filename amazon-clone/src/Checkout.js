@@ -5,7 +5,7 @@ import { useStateValue } from './StateProvider';
 import Subtotal from './Subtotal';
 
 function Checkout() {
-  const [{cart}, disatch] = useStateValue();
+  const [{cart}, dispatch] = useStateValue();
 
 
   return (
@@ -15,9 +15,9 @@ function Checkout() {
         <div>
           <h3 className="checkout--title">Your Shopping Details</h3>
 
-          {cart.map( item => (
+           {cart.map( item => (
           <CheckoutProduct 
-            id = {item.title}
+            id = {item.id}
             title = {item.title}
             image = {item.image}
             price = {item.price}
