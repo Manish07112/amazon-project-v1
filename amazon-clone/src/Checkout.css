@@ -1,12 +1,12 @@
 .checkout{
     display: flex;
-    background-color: rgb(206, 203, 203);
+    background-color: rgb(247, 192, 151);
     height: max-content;
     padding: 20px;
 }
 
 .checkout--left{
-    background-color: white;
+    background-color: rgb(249, 255, 249);
 }
 
 .checkout--adv{
@@ -15,10 +15,11 @@
 }
 
 .checkout--title{
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid rgb(4, 4, 4);
     padding: 10px;
 }
 
 .checkout--right{
-    background-color: rgb(144, 237, 91);
+    background-color: rgb(196, 250, 196);
 }
+
