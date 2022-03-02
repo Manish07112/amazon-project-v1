@@ -19,7 +19,7 @@ function Login() {
            <button className='login--signButton'>Continue</button>
         </form>
         <p>By continuing, you agree to Amazon's Conditions of Use and Privacy Notice.</p>
-        <p1>---------------New To Amazon-------------</p1>
+        <p1>--------------New To Amazon?------------</p1>
         <button className='login--registerButton'>Create your Amazon Account</button>
        </div>
        <div>
