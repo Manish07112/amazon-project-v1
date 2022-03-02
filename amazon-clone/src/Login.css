@@ -38,7 +38,7 @@
     margin-bottom: 10px;
     width: 98%;
     background-color: white;
-    border-radius: 25px;
+    border-radius: 20px;
     border-color: red;
 }
 
@@ -48,10 +48,10 @@
 }
 
 .login--signButton{
-    background-color: #4dfd07;
-    border-radius: 24px;
-    width: 60%;
-    margin-left: 58px;
+    background-color: #fda027;
+    border-radius: 6px;
+    width: 80%;
+    margin-left: 29px;
     height: 30px;
     border: 1px solid;
     margin-top: 10px;
@@ -64,8 +64,8 @@
     border: 1px solid;
     margin-top: 10px;
     border-color: rgb(7, 7, 7);
-    background-color: #09d2f5;
-    border-radius: 24px;
+    background-color: #b3deff;
+    border-radius: 4px;
 }
 
 .login h6{
